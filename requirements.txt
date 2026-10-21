@@ -1,5 +1,6 @@
+# Define as dependencias de bibliotecas obrigatorias para rodar o aplicativo no servidor web do Streamlit Cloud
 streamlit
 pandas
 openpyxl
 scikit-learn
-matplotlib
+plotly
